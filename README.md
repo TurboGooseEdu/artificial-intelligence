@@ -1,2 +1,2 @@
 # Artificial_Intelligence
-AI project
+Project for artificial intelligence university course
